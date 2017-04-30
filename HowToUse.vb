@@ -1,3 +1,5 @@
+Dim ws As New Ws2812b
+
 ' ビットマップからWS2812Bに送るバイト列を作成してシリアルポートから送出する。
 ' 先にSerialPort1を Baud: 3000000, Databits: 7, Parity: None, StopBits: Oneで開いておくこと。
 ' 16x16px, 1ピクセル送るのに8bytes 2048bytes バッファサイズはデフォルトで2048bytes
