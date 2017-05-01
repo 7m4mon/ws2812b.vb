@@ -7,6 +7,6 @@ Controll WS2812B by VisualBasic.NET (SerialPort 3Mbps 7-n-1)
 
 How to use
 
-レイアウトが崩れるのでHowToUse.vb参照のこと。
+HowToUse.vb参照のこと。
 
 https://youtu.be/oMrZQLSAcDA
