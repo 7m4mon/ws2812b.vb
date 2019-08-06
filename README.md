@@ -17,4 +17,4 @@ https://youtu.be/oMrZQLSAcDA
 An inverter is inserted for level shift and polarity.
 ![inveterter_for_ws2812b](https://github.com/7m4mon/ws2812b.vb/raw/master/inveterter_for_ws2812b.PNG "inveterter_for_ws2812b")
 
-![color_black_waveform2](https://github.com/7m4mon/ws2812b.vb/blob/master/color_black_waveform2.png "color_black_waveform2")
+![color_black_waveform](https://github.com/7m4mon/ws2812b.vb/blob/master/color_black_waveform.png "color_black_waveform")
